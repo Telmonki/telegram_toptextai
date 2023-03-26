@@ -4,7 +4,7 @@
 	<p>Created in December 2022</p>
 	<p>This code implements a Telegram bot that can generate essays for users based on their specified topic and requirements via GPT-3. The bot can also handle payments for users to purchase more words for their essays.</p>
 	<h2>Usage</h2>
-	<p>To use this code, you will need to create a Telegram bot using the BotFather bot on Telegram. Once you have created your bot, obtain its API token and add it to the <code>config.py</code> file. You will also need to set up a SQLite database to store user information and their balances.</p>
+	<p>To use this code, you will need to create a Telegram bot using the BotFather bot on Telegram. Once you have created your bot, obtain its API token and add it to the file. You will also need to set up a SQLite database to store user information and their balances.</p>
 	<p>To run the bot, you can use the following command:</p>
 	<code>python main.py</code>
 	<p>This will start the bot and it will listen for messages from users. The bot has the following commands and functionalities:</p>
