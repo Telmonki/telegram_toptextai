@@ -1,7 +1,4 @@
-<html>
-<head>
-	<title>Telegram Bot README</title>
-</head>
+
 <body>
 	<h1>Telegram Bot README</h1>
 	<p>This code implements a Telegram bot that can generate essays for users based on their specified topic and requirements. The bot can also handle payments for users to purchase more words for their essays.</p>
